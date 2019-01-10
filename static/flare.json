@@ -1,0 +1,256 @@
+{
+    "name": "Top 10 News",
+    "children": [
+     {
+      "name": "Politics",
+      "children": [
+       {
+        "name": "Chicago",
+        "children": [
+         {"name": "Morning", "size": 3938},
+         {"name": "Afternoon", "size": 3812},
+         {"name": "Evening", "size": 6714},
+         {"name": "Midnight", "size": 743}
+        ]
+       },
+       {
+        "name": "NewYork",
+        "children": [
+         {"name": "Morning", "size": 3534},
+         {"name": "Afternoon", "size": 5731},
+         {"name": "Evening", "size": 7840},
+         {"name": "Midnight", "size": 5914}
+        ]
+       },
+       {
+        "name": "Florida",
+        "children": [
+         {"name": "Morning", "size": 3938},
+         {"name": "Afternoon", "size": 3812},
+         {"name": "Evening", "size": 6714},
+         {"name": "Midnight", "size": 743}
+        ]
+       },
+       {
+        "name": "Denver",
+        "children": [
+         {"name": "Morning", "size": 3938},
+         {"name": "Afternoon", "size": 3812},
+         {"name": "Evening", "size": 6714},
+         {"name": "Midnight", "size": 743}
+        ]
+       },
+       {
+        "name": "Houston",
+        "children": [
+         {"name": "Morning", "size": 3534},
+         {"name": "Afternoon", "size": 5731},
+         {"name": "Evening", "size": 7840},
+         {"name": "Midnight", "size": 5914}
+        ]
+       }
+      ]
+     },
+     {
+      "name": "Entertainment",
+      "children": [
+       {
+        "name": "Chicago",
+        "children": [
+         {"name": "Morning", "size": 3938},
+         {"name": "Afternoon", "size": 3812},
+         {"name": "Evening", "size": 6714},
+         {"name": "Midnight", "size": 743}
+        ]
+       },
+       {
+        "name": "LosAngels",
+        "children": [
+         {"name": "Morning", "size": 3938},
+         {"name": "Afternoon", "size": 3812},
+         {"name": "Evening", "size": 6714},
+         {"name": "Midnight", "size": 743}
+        ]
+       },
+       {
+        "name": "DC",
+        "children": [
+         {"name": "Morning", "size": 3938},
+         {"name": "Afternoon", "size": 3812},
+         {"name": "Evening", "size": 6714},
+         {"name": "Midnight", "size": 743}
+        ]
+       },
+       {
+        "name": "NewYork",
+        "children": [
+         {"name": "Morning", "size": 3534},
+         {"name": "Afternoon", "size": 5731},
+         {"name": "Evening", "size": 7840},
+         {"name": "Midnight", "size": 5914}
+        ]
+       },
+       {
+        "name": "Seatle",
+        "children": [
+         {"name": "Morning", "size": 3534},
+         {"name": "Afternoon", "size": 5731},
+         {"name": "Evening", "size": 7840},
+         {"name": "Midnight", "size": 5914}
+        ]
+       }
+      ]
+     },
+     {
+      "name": "Sports",
+      "children": [
+       {
+        "name": "LosAngels",
+        "children": [
+         {"name": "Morning", "size": 3938},
+         {"name": "Afternoon", "size": 3812},
+         {"name": "Evening", "size": 6714},
+         {"name": "Midnight", "size": 743}
+        ]
+       },
+       {
+        "name": "Atlanta",
+        "children": [
+         {"name": "Morning", "size": 3938},
+         {"name": "Afternoon", "size": 3812},
+         {"name": "Evening", "size": 6714},
+         {"name": "Midnight", "size": 743}
+        ]
+       },
+       {
+        "name": "Philadelphia",
+        "children": [
+         {"name": "Morning", "size": 3938},
+         {"name": "Afternoon", "size": 3812},
+         {"name": "Evening", "size": 6714},
+         {"name": "Midnight", "size": 743}
+        ]
+       },
+       {
+        "name": "NewYork",
+        "children": [
+         {"name": "Morning", "size": 3534},
+         {"name": "Afternoon", "size": 5731},
+         {"name": "Evening", "size": 7840},
+         {"name": "Midnight", "size": 5914}
+        ]
+       },
+       {
+        "name": "Kansas",
+        "children": [
+         {"name": "Morning", "size": 3534},
+         {"name": "Afternoon", "size": 5731},
+         {"name": "Evening", "size": 7840},
+         {"name": "Midnight", "size": 5914}
+        ]
+       }
+      ]
+     },
+     {
+      "name": "Society",
+      "children": [
+       {
+        "name": "Chicago",
+        "children": [
+         {"name": "Morning", "size": 3938},
+         {"name": "Afternoon", "size": 3812},
+         {"name": "Evening", "size": 6714},
+         {"name": "Midnight", "size": 743}
+        ]
+       },
+       {
+        "name": "LosAngels",
+        "children": [
+         {"name": "Morning", "size": 3938},
+         {"name": "Afternoon", "size": 3812},
+         {"name": "Evening", "size": 6714},
+         {"name": "Midnight", "size": 743}
+        ]
+       },
+       {
+        "name": "Florida",
+        "children": [
+         {"name": "Morning", "size": 3938},
+         {"name": "Afternoon", "size": 3812},
+         {"name": "Evening", "size": 6714},
+         {"name": "Midnight", "size": 743}
+        ]
+       },
+       {
+        "name": "NewYork",
+        "children": [
+         {"name": "Morning", "size": 3534},
+         {"name": "Afternoon", "size": 5731},
+         {"name": "Evening", "size": 7840},
+         {"name": "Midnight", "size": 5914}
+        ]
+       },
+       {
+        "name": "Atlanta",
+        "children": [
+         {"name": "Morning", "size": 3534},
+         {"name": "Afternoon", "size": 5731},
+         {"name": "Evening", "size": 7840},
+         {"name": "Midnight", "size": 5914}
+        ]
+       }
+      ]
+     },
+     {
+      "name": "Health",
+      "children": [
+       {
+        "name": "Chicago",
+        "children": [
+         {"name": "Morning", "size": 3938},
+         {"name": "Afternoon", "size": 3812},
+         {"name": "Evening", "size": 6714},
+         {"name": "Midnight", "size": 743}
+        ]
+       },
+       {
+        "name": "LosAngels",
+        "children": [
+         {"name": "Morning", "size": 3938},
+         {"name": "Afternoon", "size": 3812},
+         {"name": "Evening", "size": 6714},
+         {"name": "Midnight", "size": 743}
+        ]
+       },
+       {
+        "name": "Atlanta",
+        "children": [
+         {"name": "Morning", "size": 3938},
+         {"name": "Afternoon", "size": 3812},
+         {"name": "Evening", "size": 6714},
+         {"name": "Midnight", "size": 743}
+        ]
+       },
+       {
+        "name": "Florida",
+        "children": [
+         {"name": "Morning", "size": 3534},
+         {"name": "Afternoon", "size": 5731},
+         {"name": "Evening", "size": 7840},
+         {"name": "Midnight", "size": 5914}
+        ]
+       },
+       {
+        "name": "Las Vegas",
+        "children": [
+         {"name": "Morning", "size": 3534},
+         {"name": "Afternoon", "size": 5731},
+         {"name": "Evening", "size": 7840},
+         {"name": "Midnight", "size": 5914}
+        ]
+       }
+      ]
+     }
+     
+    ]
+   }
